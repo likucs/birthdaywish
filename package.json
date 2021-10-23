@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Damantha126/Happy-BirthDay.git"
+    "url": "git+https://github.com/likucs/Happy-BirthDay.git"
   },
   "keywords": [
     "Happy",
@@ -26,8 +26,8 @@
   "author": "Afiur Rahman Fahim",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Damantha126/Happy-BirthDay/issues"
+    "url": "https://github.com/likucs/Happy-BirthDay/issues"
   },
-  "homepage": "https://github.com/Damantha126/Happy-BirthDay#readme",
+  "homepage": "https://github.com/likucs/Happy-BirthDay#readme",
   "dependencies": {}
 }
